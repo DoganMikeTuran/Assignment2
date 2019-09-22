@@ -1,8 +1,14 @@
 ﻿<Properties StartupConfiguration="{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ThirdPersonWalk.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShootingSystem.cs">
     <Files>
       <File FileName="Assets/Scripts/ThirdPersonWalk.cs" Line="10" Column="1" />
       <File FileName="Assets/Scripts/FollowThirdperson.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Ins3PowerUps.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/CarFollowController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CarButtonReset.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShootingSystem.cs" Line="23" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +19,7 @@
                 <Node name="Shaders" expanded="True" />
               </Node>
               <Node name="Scripts" expanded="True">
-                <Node name="ThirdPersonWalk.cs" selected="True" />
+                <Node name="ShootingSystem.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -23,7 +29,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="62401a13-e16f-4efd-abbb-cdb281b1f276" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54b310c9-7558-481f-8775-2c58f2ebe4c8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
